@@ -1,1 +1,10 @@
-# micros
+## Microcontroladores
+## Escuela Superior de Cómputo | Escom 
+*Profesor: Fernando Aguilar Sanchez*
+
+**Requerimientos**
+- Device: *ATmega 8535*
+- IDE: *Code Vision AVR*
+
+**Prácticas:**
+1. Uso de puertos E/S.
