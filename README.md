@@ -8,3 +8,4 @@
 
 **Prácticas:**
 1. Uso de puertos E/S.
+2. Contador ascendente y descendente.
