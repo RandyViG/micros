@@ -10,3 +10,4 @@
 1. Uso de puertos E/S.
 2. Contador ascendente y descendente.
 3. Converditor BCD a 7 Segmentos
+4. Contador de 0 a 9
